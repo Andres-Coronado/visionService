@@ -29,7 +29,6 @@
       <p><strong>text</strong> {{ imgData.text }}</p>
       <p><strong>confidence</strong> {{ imgData.confidence }}</p>
     </div>
-    <div v-else>No hay dato</div>
   </div>
 </template>
 
