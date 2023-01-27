@@ -1,7 +1,8 @@
 .DS_Store
 .thumbs.db
 node_modules
-
+.env
+config.json
 # Quasar core related directories
 .quasar
 /dist
